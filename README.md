@@ -3,6 +3,10 @@
 ComfyUI 桌面宠物监控器 - 一个结合 ComfyUI-TaskMonitor 和 DesktopPet 的桌面宠物挂件程序，用于监控 ComfyUI 工作流进度。
 
 
+
+https://github.com/user-attachments/assets/15f53c54-aedf-480f-a736-bf6c68ae39c9
+
+
 ### 🎨 资源文件
 ```
 images/                       # 图标和宠物图片目录
