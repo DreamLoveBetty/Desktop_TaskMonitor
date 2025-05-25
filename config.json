@@ -1,0 +1,30 @@
+{
+    "comfyui_server": {
+        "host": "127.0.0.1",
+        "port": 8188,
+        "protocol": "http"
+    },
+    "pet_settings": {
+        "selected_pet": "Girl",
+        "animation_speed": 250,
+        "size_scale": 1.0,
+        "position": {
+            "x": 3543,
+            "y": 119
+        }
+    },
+    "monitor_settings": {
+        "refresh_interval": 1000,
+        "auto_hide_progress": true,
+        "progress_window_opacity": 0.8,
+        "progress_window_offset": {
+            "x": 0,
+            "y": 200
+        }
+    },
+    "display_settings": {
+        "always_on_top": true,
+        "show_in_taskbar": false,
+        "enable_drag": true
+    }
+}
